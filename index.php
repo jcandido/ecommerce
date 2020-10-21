@@ -1,3 +1,3 @@
 <? php
-    echo "Fui eu o JCandido";
+    echo "Alterei este arquivo - JCandido";
 ?>
